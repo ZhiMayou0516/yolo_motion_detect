@@ -16,7 +16,7 @@
 
 ### 测量效果示意
 
-![测量效果](docs/images/result_demo.png)
+![测量效果](images/result_demo.png)
 
 ## 主要功能
 ### 1. 深度相机接入与标定参数获取
